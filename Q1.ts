@@ -1,2 +1,2 @@
 let personname = "Eric";
-console.log(personname);
+console.log(personname); // prints the person Name
